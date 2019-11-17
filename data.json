@@ -1,0 +1,15 @@
+{
+    "NAME": "Abhinav Pandey",
+    "ABOUT_ME": "Working as a python developer for 2 years.Having knowledge of various languages such as python,C++,sql,plsql etc.. 😊 ",
+    "LANGUAGES": [
+        "Python",
+        "C++",
+        "Sql",
+        "Javascript"
+    ],
+    "PROJECTS": [
+    ["filter_drama","Google","Google is an amazing search engine"],
+    ["place","Youtube","The best video sharing platform"],
+    ["whatshot","Gmail","You all know what this is 😃 "]                       
+    ]
+}
